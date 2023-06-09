@@ -1,0 +1,18 @@
+.answer {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(122, 228, 122);
+    text-shadow: -3px -3px 0 skyblue, 3px -3px 0 skyblue, -3px 3px 0 skyblue, 3px 3px 0 skyblue;
+    font-size: 120px;
+  }
+  .reveal_answer_container{
+    color: white;
+}
+
+.btn0-div{
+  justify-content: center;
+  text-align: center;
+}
