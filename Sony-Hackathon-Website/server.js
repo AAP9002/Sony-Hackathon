@@ -103,5 +103,5 @@ app.use(authenticateToken);
 /////////////////////////////////////////////////////////
 
 ///////////// IMPORT MODULES FROM FILES ////////////// 
-// require('./backend_Files/Country_Data_Collection_API')(app, connection);
+require('./backend_Files/Get_Data_API')(app, connection);
 //////////////////////////////////////////////////////
